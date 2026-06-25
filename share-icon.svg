@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#00a857;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00dd73;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="300" rx="24" fill="url(#bg)"/>
+  <circle cx="150" cy="135" r="55" fill="none" stroke="white" stroke-width="12"/>
+  <polyline points="120,145 145,170 185,110" fill="none" stroke="white" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="150" y="240" text-anchor="middle" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="36" fill="white" font-weight="600">请假申请</text>
+</svg>
